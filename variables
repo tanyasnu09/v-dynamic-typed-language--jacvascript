@@ -1,0 +1,5 @@
+console.log("hello world")
+var a = 67;
+console.log(a)
+a = 'b'
+console.log(a)
